@@ -1,3 +1,5 @@
+View my Project: https://shakeelscodingworld.github.io/CSS-Healthy-Recipes/
+
 🥗 Kale Caesar Quinoa Salad Recipe – CSS Styling Project
 Welcome! This is a simple front-end project focused on HTML and CSS styling for a recipe page. The goal of this project is to demonstrate my ability to structure semantic HTML and apply clean, readable CSS styling to a basic webpage layout.
 
